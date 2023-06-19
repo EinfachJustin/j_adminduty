@@ -2,6 +2,7 @@
 
 Aduty is a FiveM resource that allows players with specific permissions to toggle their duty status. When a player is on duty, they will have access to certain features or abilities in the game.
 
+Showcase:[YouTube](https://github.com/EinfachJustin/j_adminduty)
 ## Features
 
 - Toggle duty status: Players with the appropriate permissions can use the `/aduty` command to switch between on-duty and off-duty status.
@@ -10,7 +11,7 @@ Aduty is a FiveM resource that allows players with specific permissions to toggl
 
 ## Installation
 
-1. Download the ADuty resource from [GitHub](https://github.com/EinfachJustin/j_adminduty).
+1. Download the ADuty resource from [GitHub]([https://github.com/EinfachJustin/j_adminduty](https://www.youtube.com/watch?v=I3s4MHwtdU0)).
 2. Place the `aduty` folder in your FiveM server's `resources` directory.
 3. Configure the permissions and Steam IDs in the `config.lua` file.
 4. Add `ensure aduty` to your server.cfg file to start the resource when the server launches.
