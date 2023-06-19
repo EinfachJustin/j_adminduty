@@ -1,7 +1,7 @@
 local dutyPlayers = {}
 local authorizedLicenses = {
-    "license:c8dde47af6ab7d5204ba96c6bce10b933b445f5b", --change the Permissions here
-    "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY"
+    "license:xxxxxxxxxxxxxxxxxxxxxxxxxxxxx", --change the Permissions here
+    "license:YYYYYYYYYYYYYYYYYYYYYYYYYYYYY"
 }
 local QBCore = exports['qb-core']:GetCoreObject()
 
